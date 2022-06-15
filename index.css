@@ -1,0 +1,100 @@
+body{
+  background-color: #F0E9D2;
+  margin:0px;
+  text-align: center;
+}
+p{
+  color: #FA4EAB;
+  font-size: 25px;
+  text-align: center;
+}
+
+.wreath{
+
+  width: 70%;
+  height: 70%;
+}
+
+.top-section{
+
+  margin-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 50px;
+
+}
+
+.centered{
+  font-size: 50px;
+  margin: 0px;
+  font-family: 'Tillana', cursive;
+  color: #916BBF;
+  left: 20px;
+  top: 100px;
+  line-height: 0.6;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: red;
+}
+
+.botleft {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.topleft {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+.topright {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+.botright {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.h3{
+  font-size: 25px;
+  color: #FA4EAB;
+
+}
+.over{
+  height: 117px;
+  width: 117px;
+  position: absolute;
+  left: 300px;
+  top: 40px
+}
+
+
+.top{
+  height: 117px;
+  width: 117px;
+  position: absolute;
+  right: 150px;
+  top: 300px;
+}
+.bottom{
+  height: 117px;
+  width: 117px;
+  position: absolute;
+  left: 200px;
+  top: 600px;
